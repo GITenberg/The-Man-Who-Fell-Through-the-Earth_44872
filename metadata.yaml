@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1060
     wikipedia: https://en.wikipedia.org/wiki/Carolyn_Wells
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44872#The-Man-Who-Fell-Through-the-Earth
 gutenberg_issued: '2014-02-13'
 gutenberg_type: Text
 identifiers:
